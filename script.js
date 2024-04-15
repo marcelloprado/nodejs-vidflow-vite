@@ -1,4 +1,4 @@
-
+import axios from "axios";
 
 const containerVideos = document.querySelector(".videos__container");
 
